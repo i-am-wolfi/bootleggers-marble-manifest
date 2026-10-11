@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="i-am-wolfi/vendor_bootleggers" path="vendor/bootleggers" remote="github" revision="sixteen" />
+  <project name="i-am-wolfi/vendor_shishufied" path="vendor/shishufied" remote="github" revision="sixteen" />
+  <project name="i-am-wolfi/packages_apps_BootlegDumpster" path="packages/apps/BootlegDumpster" remote="github" revision="sixteen" />
+  <project name="i-am-wolfi/vendor_support" path="vendor/support" remote="github" revision="sixteen" />
+  <remove-project name="LineageOS/android_packages_apps_Settings" />
+  <project name="i-am-wolfi/packages_apps_Settings" path="packages/apps/Settings" remote="github" revision="sixteen" />
+  <project name="BootleggersROM/packages_services_OmniJaws" path="packages/services/OmniJaws" remote="github" revision="tirimbino" />
+</manifest>
